@@ -14,9 +14,6 @@
 
 🌐 These results highlight the potential of machine learning in accurately detecting and classifying malicious URLs, contributing towards a safer online environment. By leveraging these algorithms, we can enhance online security and protect users from threats.
 
-#MachineLearning #URLClassification #OnlineSecurity #MaliciousURLs #DataAnalysis #Cybersecurity
-
-
 # Word Cloud of Benign URLs
 
 ![benign_word](https://github.com/sajadul-d/Fake-URLs-Detection-System/assets/76832635/06d43190-e507-43ef-9b49-54adfdd320ab)
@@ -32,6 +29,8 @@
 # World Cloud of Pshing URLs
 
 ![pshing_word](https://github.com/sajadul-d/Fake-URLs-Detection-System/assets/76832635/77d50ce7-f06e-4983-bd25-dee9c3568639)
+
+#MachineLearning #URLClassification #OnlineSecurity #MaliciousURLs #DataAnalysis #Cybersecurity
 
 
 
