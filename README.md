@@ -8,14 +8,31 @@
 
 🔒 Benign URLs belonged to reputable sources such as popular search engines and social media platforms. 🦠 Malware URLs injected harmful software, 🎭 defacement URLs aimed to replace hosted websites with unauthorized content, and 🎣 phishing URLs sought to deceive users into providing sensitive information.
 
-💡 To gain further insights, we created word clouds for each URL category, revealing common words and phrases associated with each type. These word clouds provided valuable information for developing a robust method to detect and prevent malicious URLs, ensuring online safety and security.
+💡 To gain further insights, we created word clouds or each URL category, revealing common words and phrases associated with each type. These word clouds provided valuable information for developing a robust method to detect and prevent malicious URLs, ensuring online safety and security.
 
 ⚙️ Our research showcased the effectiveness of machine learning algorithms, including Random Forest, Light GBM, and XG Boost, in accurately classifying URLs. The Random Forest classifier achieved an impressive accuracy of 97%, while the Light GBM and XG Boost classifiers achieved accuracy rates of 96% and 96.2%, respectively.
 
 🌐 These results highlight the potential of machine learning in accurately detecting and classifying malicious URLs, contributing towards a safer online environment. By leveraging these algorithms, we can enhance online security and protect users from threats.
-![pshing_word](https://github.com/sajadul-d/Fake-URLs-Detection-System/assets/76832635/2ac391f6-6ba2-4d95-bcb2-![defacement_word](https://github.com/sajadul-d/Fake-URLs-Detection-System/assets/76832635/58f5b733-e811-45f2-9f0d-08198eec0a68)
-ba85d3d224b1)
-
-
 
 #MachineLearning #URLClassification #OnlineSecurity #MaliciousURLs #DataAnalysis #Cybersecurity
+
+
+# Word Cloud of Benign URLs
+
+![benign_word](https://github.com/sajadul-d/Fake-URLs-Detection-System/assets/76832635/06d43190-e507-43ef-9b49-54adfdd320ab)
+
+# Word Cloud Defacement URLs
+
+![defacement_word](https://github.com/sajadul-d/Fake-URLs-Detection-System/assets/76832635/ddc29d42-4e51-4267-a01c-6b658d14f842)
+
+# Word Cloud Malware URLs
+
+![malware_word](https://github.com/sajadul-d/Fake-URLs-Detection-System/assets/76832635/56d77ce0-724e-46ac-8d16-1db6a92021aa)
+
+# World Cloud of Pshing URLs
+
+![pshing_word](https://github.com/sajadul-d/Fake-URLs-Detection-System/assets/76832635/77d50ce7-f06e-4983-bd25-dee9c3568639)
+
+
+
+
